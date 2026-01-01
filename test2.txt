@@ -1,1 +1,2 @@
 hi
+This is test 2 text file
